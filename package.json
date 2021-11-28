@@ -1,0 +1,24 @@
+{
+  "name": "todo-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "vue": "^3.2.16"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "autoprefixer": "^10.4.0",
+    "eslint": "^8.3.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-vue": "^8.1.1",
+    "postcss": "^8.4.4",
+    "prettier": "^2.5.0",
+    "tailwindcss": "^2.2.19",
+    "vite": "^2.6.4"
+  }
+}
